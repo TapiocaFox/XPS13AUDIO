@@ -1,0 +1,8 @@
+[   11.276496] snd_hda_codec_realtek hdaudioC0D0: autoconfig for ALC3246: line_outs=1 (0x14/0x0/0x0/0x0/0x0) type:speaker
+[   11.276498] snd_hda_codec_realtek hdaudioC0D0:    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+[   11.276499] snd_hda_codec_realtek hdaudioC0D0:    hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+[   11.276500] snd_hda_codec_realtek hdaudioC0D0:    mono: mono_out=0x0
+[   11.276501] snd_hda_codec_realtek hdaudioC0D0:    inputs:
+[   11.276502] snd_hda_codec_realtek hdaudioC0D0:      Headset Mic=0x19
+[   11.276503] snd_hda_codec_realtek hdaudioC0D0:      Headphone Mic=0x1a
+[   11.276504] snd_hda_codec_realtek hdaudioC0D0:      Internal Mic=0x12
